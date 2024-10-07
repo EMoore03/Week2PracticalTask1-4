@@ -70,3 +70,4 @@ static string GetMessage(int language)
     }
     return msg;
 }
+
